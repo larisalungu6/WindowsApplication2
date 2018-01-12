@@ -13,3 +13,6 @@ C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplicati
 C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
 C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
 C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Games\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\user\Documents\Games\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\user\Documents\Games\WindowsApplication2\bin\Debug\WindowsApplication2.xml

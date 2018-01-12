@@ -1,10 +1,11 @@
 ﻿Public Class Form1
-
+    Dim up_down_mover = 5
+    Dim Left_right_mover = 5
     Dim LeftMove As Integer = 5
     Dim Invader(6) As PictureBox
     Dim invaderLife(6) As Boolean
-    Dim up_down_mover = 5
-    Dim Left_right_mover = 5
+    Dim direct As Integer
+
 
 
     Private Sub Form1_KeyDown(ByVal sender As Object, ByVal e As System.Windows.Forms.KeyEventArgs) Handles Me.KeyDown
@@ -58,7 +59,6 @@
             If invaderLife(j) Then
                 Invader(j).Left += LeftMove
                 If Invader(j).Left > 1000 Then
-
                     LeftMove *= -1
                 End If
                 If Invader(j).Left < 10 Then

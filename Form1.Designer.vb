@@ -33,6 +33,7 @@ Partial Class Form1
         Me.PicInvader5 = New System.Windows.Forms.PictureBox()
         Me.PicInvader6 = New System.Windows.Forms.PictureBox()
         Me.Timer2 = New System.Windows.Forms.Timer(Me.components)
+        Me.Timer3 = New System.Windows.Forms.Timer(Me.components)
         CType(Me.PicBullet, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.Spaceship, System.ComponentModel.ISupportInitialize).BeginInit()
         CType(Me.PicInvader1, System.ComponentModel.ISupportInitialize).BeginInit()
@@ -129,6 +130,10 @@ Partial Class Form1
         'Timer2
         '
         '
+        'Timer3
+        '
+        Me.Timer3.Enabled = True
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -145,6 +150,7 @@ Partial Class Form1
         Me.KeyPreview = True
         Me.Name = "Form1"
         Me.Text = "Form1"
+        Me.TransparencyKey = System.Drawing.Color.Black
         CType(Me.PicBullet, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.Spaceship, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.PicInvader1, System.ComponentModel.ISupportInitialize).EndInit()
@@ -166,5 +172,6 @@ Partial Class Form1
     Friend WithEvents Spaceship As System.Windows.Forms.PictureBox
     Friend WithEvents PicBullet As System.Windows.Forms.PictureBox
     Friend WithEvents Timer2 As System.Windows.Forms.Timer
+    Friend WithEvents Timer3 As System.Windows.Forms.Timer
 
 End Class

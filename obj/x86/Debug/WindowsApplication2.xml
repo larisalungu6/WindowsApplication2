@@ -15,6 +15,26 @@ WindowsApplication2
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
+</member><member name="P:WindowsApplication2.My.Resources.Resources._2557e763bc7910f">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication2.My.Resources.Resources._2557e763bc7910f1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication2.My.Resources.Resources.alienspaceship">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication2.My.Resources.Resources.bullets">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication2.My.Resources.Resources.Capture">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:WindowsApplication2.My.Resources.Resources.Virus_Emoji_large">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
