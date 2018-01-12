@@ -1,0 +1,15 @@
+\\dom.sandwell.ac.uk\student\homeodd\606135\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+\\dom.sandwell.ac.uk\student\homeodd\606135\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+\\dom.sandwell.ac.uk\student\homeodd\606135\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+\\dom.sandwell.ac.uk\student\homeodd\606135\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+\\dom.sandwell.ac.uk\student\homeodd\606135\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+\\dom.sandwell.ac.uk\student\homeodd\606135\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+\\dom.sandwell.ac.uk\student\homeodd\606135\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+\\dom.sandwell.ac.uk\student\homeodd\606135\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+\\dom.sandwell.ac.uk\student\homeodd\606135\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Form1.resources
+C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplication2.Resources.resources
+C:\Users\user\Documents\Games\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
